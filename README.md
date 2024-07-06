@@ -20,14 +20,13 @@ This application provides a basic **CRUD (Create, Read, Update, Delete)** interf
 
 ## Project Screenshots
 
-![Screenshot 2024-07-06 101917](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/506278ed-b604-4b04-bcb7-e8447ce05033)
-![Screenshot 2024-07-06 101857](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/cbc9db85-9943-4d55-9ca2-096c890c4c59)
-![Screenshot 2024-07-06 101800](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/1c09985f-e728-4449-8710-7c8eeeecd444)
-![Screenshot 2024-07-06 101739](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/8c70f547-da58-4414-a6d9-b6e8a93f6a67)
-![Screenshot 2024-07-06 101721](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/2e82e488-abb1-435f-95ec-f02af366c92d)
-![Screenshot 2024-07-06 101656](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/3d53f5bf-1f12-4e9f-9145-9cd9e5e1851a)
-![Screenshot 2024-07-06 101642](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/7ee5224f-2383-43d0-b288-0458385903c2)
-
+![Screenshot 2024-07-06 101642](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/37bfcd1c-fedd-4184-b0d6-241f8b11bdca)
+![Screenshot 2024-07-06 101656](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/878f4538-af18-456b-ac77-b8426888e8c4)
+![Screenshot 2024-07-06 101721](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/5e090d53-734a-4fe4-a18c-46e0bf228dbd)
+![Screenshot 2024-07-06 101739](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/88a748be-48fb-4725-a7cf-06c783065367)
+![Screenshot 2024-07-06 101800](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/a4d2b250-b75e-4bcc-b8f4-38ec67f0f07f)
+![Screenshot 2024-07-06 101857](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/6f95ea84-b3c0-4c50-a094-2e5cab35fd86)
+![Screenshot 2024-07-06 101917](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/1619fc74-82b2-4d2e-b345-a3243e22de41)
 
 ## Features
 
