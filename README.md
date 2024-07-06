@@ -97,7 +97,7 @@ The server will start at `http://localhost:3000`.
 
 ## Endpoints
 
-The API provides the following endpoints for interacting with product data:
+The API provides the following endpoints for interacting with product data:  
 
 | Method | Endpoint            | Description                     |
 | :----- | :----------------- | :------------------------------ |
@@ -106,19 +106,6 @@ The API provides the following endpoints for interacting with product data:
 | POST   | `/products`         | Create a new product.          |
 | PUT    | `/products/:id`      | Update an existing product.      |
 | DELETE | `/products/:id`      | Delete a product by ID.         |
-
-**Note:** Replace `:id` with the actual ID of the product you want to access.
-
-For instance:
-
-- **Product Listing:**
-  ![Product Listing](/path/to/product-listing.png)
-- **Product Details:**
-  ![Product Details](/path/to/product-details.png)
-- **Creating/Updating a Product:**
-  ![Product Form](/path/to/product-form.png) 
-
-Remember to replace `/path/to/` with the actual paths to your image files.
 
 ## Contributing
 
