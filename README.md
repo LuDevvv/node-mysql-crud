@@ -4,6 +4,7 @@ This application provides a basic **CRUD (Create, Read, Update, Delete)** interf
 
 ## Table of Contents
 
+- [Project Screenshots](#project-screenshots) 
 - [Features](#features)
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -15,6 +16,18 @@ This application provides a basic **CRUD (Create, Read, Update, Delete)** interf
 - [Endpoints](#endpoints)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## Project Screenshots
+
+![Screenshot 2024-07-06 101917](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/506278ed-b604-4b04-bcb7-e8447ce05033)
+![Screenshot 2024-07-06 101857](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/cbc9db85-9943-4d55-9ca2-096c890c4c59)
+![Screenshot 2024-07-06 101800](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/1c09985f-e728-4449-8710-7c8eeeecd444)
+![Screenshot 2024-07-06 101739](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/8c70f547-da58-4414-a6d9-b6e8a93f6a67)
+![Screenshot 2024-07-06 101721](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/2e82e488-abb1-435f-95ec-f02af366c92d)
+![Screenshot 2024-07-06 101656](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/3d53f5bf-1f12-4e9f-9145-9cd9e5e1851a)
+![Screenshot 2024-07-06 101642](https://github.com/LuDevvv/node-mysql-crud/assets/107328372/7ee5224f-2383-43d0-b288-0458385903c2)
+
 
 ## Features
 
@@ -96,6 +109,17 @@ The API provides the following endpoints for interacting with product data:
 | DELETE | `/products/:id`      | Delete a product by ID.         |
 
 **Note:** Replace `:id` with the actual ID of the product you want to access.
+
+For instance:
+
+- **Product Listing:**
+  ![Product Listing](/path/to/product-listing.png)
+- **Product Details:**
+  ![Product Details](/path/to/product-details.png)
+- **Creating/Updating a Product:**
+  ![Product Form](/path/to/product-form.png) 
+
+Remember to replace `/path/to/` with the actual paths to your image files.
 
 ## Contributing
 
